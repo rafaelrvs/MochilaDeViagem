@@ -1,0 +1,2 @@
+Todo Formulario por padrão envia os dados para algum lugar, quando envia para pagina não funciona
+Porém a correção seria interromper o evento até o submit
